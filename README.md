@@ -1,1 +1,0 @@
-# SNeCT_code
